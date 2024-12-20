@@ -147,8 +147,10 @@ async function main() {
     data: {
       name: "John Doe",
       email: "john.doe@example.com",
+      someSelect: "Option 1",
       telegram: "@johndoe",
       message: "Hello, I have a question about your services.",
+      page: "page-3",
     },
   });
 
